@@ -2,7 +2,8 @@
 
 used react navigation instead of react-native-router-flux
 <br/>
-settings for react navigation:
+<h1>settings for react navigation</h1>
+<br/>
 <br/>
 npm install @react-navigation/native
 <br/>
